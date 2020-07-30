@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Brush Lettering",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Curso de Brush Lettering Typolly",
+        "url": "https://hotmart.com/product/apostila-de-brush-lettering-estudio-typolly"
+      },
+      "videos": [
+        {
+          "titulo": "Q que tem de legal no Livro Os Segredos de Ouro do Lettering da Martina Flor",
+          "url": "https://www.youtube.com/watch?v=fygfGwTVMCk&t=243s"
+        },
+        {
+          "titulo": "Alfabeto Itálico com Brush Pen / Italic Alphabet with Brush Pen",
+          "url": "https://www.youtube.com/watch?v=apiwvoTFgA8&t=39s"
+        },
+        {
+          "titulo": "Tipos de Canetas para Brush Lettering",
+          "url": "https://www.youtube.com/watch?v=X_-NFeK8Y7E"
+        },
+        {
+          "titulo": "Brush Lettering para iniciantes | by Aline Albino",
+          "url": "https://www.youtube.com/watch?v=gFkPozrvwEw"
+        },
+        {
+          "titulo": "6 ERROS DE LETTERING COM A BRUSH PEN | Primeiro Rabisco",
+          "url": "https://www.youtube.com/watch?v=mImCigNzKSE"
+        },
+        {
+          "titulo": "Como fazer: Caligrafia e Lettering para iniciantes! Tutorial + Dicas!",
+          "url": "https://www.youtube.com/watch?v=sBoVGqiSzr4"
+        },
+        {
+          "titulo": "Learn the Alphabet with Brush Lettering",
+          "url": "https://www.youtube.com/watch?v=lR1wrqWgRt8"
+        },
+        {
+          "titulo": "COMO USAR A BRUSH PEN | Primeiro Rabisco",
+          "url": "https://www.youtube.com/watch?v=lm-VG0r7rdk"
+        }        
+      ]
+    },
+    {
+      "titulo": "Fake Lettering",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Apostila Fake calligraphy - typolly ",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "O Que é fake calligraphy",
+          "url": "https://www.youtube.com/watch?v=dsj9bbTV_HU"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Caligrafia",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Calligraphy Masters",
+        "url": "https://www.youtube.com/watch?v=WrC7DjUV94E"
+      },
+      "videos": [
+        {
+          "titulo": "Writing Copperplate Calligraphy - Calligraphy Masters",
+          "url": "https://www.youtube.com/watch?v=WrC7DjUV94E"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Review de Produtos",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Papéis",
+      "cor": "red",
+      "link_extra": {
+        "text": "Paperis - Loja",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Canetas",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Canetas - Loja",
+        "url": "https://www.youtube.com/watch?v=vr-2LS1iD1I"
+      },
+      "videos": [
+        {
+          "titulo": "Review - Aquash Brush Pentel",
+          "url": "https://www.youtube.com/watch?v=vr-2LS1iD1I"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
